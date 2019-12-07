@@ -1,0 +1,6 @@
+todo:
+--------
+make tictac board
+take input from player
+replace the char of board
+refactor the code
